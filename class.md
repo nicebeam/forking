@@ -1,4 +1,3 @@
-Su-Lin Tan
+Su
 UK
 Meta Front-End Developer Professional Certificate
-Redo this exercise
